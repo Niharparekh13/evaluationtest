@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+  }
+  #table{
+    margin-left: 180px;
+    margin-top: 150px;
+    border-width: 1px;
+    border-color: white;
+    background-color: lightgrey;
+  }
+  th{
+    border:1px solid black;
+  }
+  td{
+    border:1px solid black;
+  }
+  
